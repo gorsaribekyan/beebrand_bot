@@ -5,7 +5,7 @@ import {general_menu, questions, services, number} from './buttons.js'
 import {start_text, action_text, contact_text, after_req_text, answers, questions_text} from './texts.js'
 const bot = new Telegraf(process.env.TOKEN)
 
-const support_chat_id = process.env.SUPPORT_CHAT_ID
+const support_chat_id = -619118088 //process.env.SUPPORT_CHAT_ID
 
 //bot.use(Telegraf.log())
 
