@@ -1,15 +1,5 @@
 {
   "special_offer": 233,
   "users": {
-    "1319378597": {
-      "operator": false,
-      "phone_request": true,
-      "service_req": "Բրենդինգ/ռեբրենդինգ"
-    },
-    "1718078223": {
-      "operator": false,
-      "phone_request": false,
-      "service_req": "Ֆոտո/վիդեո նկարահանում"
-    }
   }
 }
